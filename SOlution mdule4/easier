@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{
+background-color:Brown;
+color:yellow;
+text-transform:lowercase;
+}
+</style>
+  <meta charset="utf-8">
+  <title>Module 4 Solution Starter</title>
+  <script>
+    var names = []; 
+  </script>
+  <script src="SpeakHello.js"></script>
+  <script src="SpeakGoodBye.js"></script>
+  <script src="script.js"></script>
+</head>
+<body>
+  <h1>Assignment 4</h1>
+  
+  
+  <br><br><br>
+  <h1>Check out the Console in the Web Developer Tools to see if it is done properly</h1>
+
+
+</body>
+</html>
